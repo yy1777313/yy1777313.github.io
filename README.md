@@ -92,7 +92,7 @@
 
         <p>Welcome to my personal laboratory.</p>
 
-        <a href="http://127.0.0.1/" class="btn">
+        <a href="http://10.237.37.118:8000/" class="btn">
             CLICK ME
         </a>
     </div>
