@@ -84,7 +84,6 @@
         }
     </style>
 </head>
-
 <body>
 
     <div class="container">
@@ -92,7 +91,7 @@
 
         <p>Welcome to my personal laboratory.</p>
 
-        <a href="http://10.237.37.118:8000/" class="btn">
+        <a href="http://10.252.223.68:8000/" class="btn">
             CLICK ME
         </a>
     </div>
